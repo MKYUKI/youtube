@@ -1,0 +1,5 @@
+streamlit==1.40.2
+azure-cognitiveservices-vision-computervision==0.9.1
+msrest==0.7.1
+google-cloud-texttospeech==2.21.1
+pillow==11.0.0
